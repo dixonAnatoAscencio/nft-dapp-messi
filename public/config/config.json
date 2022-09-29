@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xb68288418568697C006581166EE224199ED6F831",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb68288418568697C006581166EE224199ED6F831",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "OWNER": "Gol ball",
+  "YEAR": "2022",
+  "NFT_NAME": "MESSI TOKEN",
+  "SYMBOL": "MSI",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 6000,
+  "DISPLAY_COST": 0.6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/encara-messi"
+}
